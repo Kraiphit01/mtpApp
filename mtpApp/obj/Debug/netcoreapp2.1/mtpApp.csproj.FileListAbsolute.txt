@@ -1,0 +1,14 @@
+C:\Users\Kraiphit.k\mtpApp\mtpApp\bin\Debug\netcoreapp2.1\mtpApp.deps.json
+C:\Users\Kraiphit.k\mtpApp\mtpApp\bin\Debug\netcoreapp2.1\mtpApp.runtimeconfig.json
+C:\Users\Kraiphit.k\mtpApp\mtpApp\bin\Debug\netcoreapp2.1\mtpApp.runtimeconfig.dev.json
+C:\Users\Kraiphit.k\mtpApp\mtpApp\bin\Debug\netcoreapp2.1\mtpApp.dll
+C:\Users\Kraiphit.k\mtpApp\mtpApp\bin\Debug\netcoreapp2.1\mtpApp.pdb
+C:\Users\Kraiphit.k\mtpApp\mtpApp\obj\Debug\netcoreapp2.1\mtpApp.csprojAssemblyReference.cache
+C:\Users\Kraiphit.k\mtpApp\mtpApp\obj\Debug\netcoreapp2.1\mtpApp.csproj.CoreCompileInputs.cache
+C:\Users\Kraiphit.k\mtpApp\mtpApp\obj\Debug\netcoreapp2.1\mtpApp.AssemblyInfoInputs.cache
+C:\Users\Kraiphit.k\mtpApp\mtpApp\obj\Debug\netcoreapp2.1\mtpApp.AssemblyInfo.cs
+C:\Users\Kraiphit.k\mtpApp\mtpApp\obj\Debug\netcoreapp2.1\mtpApp.dll
+C:\Users\Kraiphit.k\mtpApp\mtpApp\obj\Debug\netcoreapp2.1\mtpApp.pdb
+C:\Users\Kraiphit.k\mtpApp\mtpApp\bin\Debug\netcoreapp2.1\ClassLibrary1.dll
+C:\Users\Kraiphit.k\mtpApp\mtpApp\bin\Debug\netcoreapp2.1\ClassLibrary1.pdb
+C:\Users\Kraiphit.k\mtpApp\mtpApp\obj\Debug\netcoreapp2.1\mtpApp.csproj.CopyComplete
